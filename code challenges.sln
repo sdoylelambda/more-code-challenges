@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "homework", "homework", "{A6D42A71-0085-486E-A43E-DF4B6835E206}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dotnet", "dotnet", "{B2F66974-E226-401B-A6E9-EED04CEC50DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestConsoleApp", "homework\dotnet\TestConsoleApp\TestConsoleApp.csproj", "{B50A25F9-3ED5-4CB6-8873-42EE78E03E3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50A25F9-3ED5-4CB6-8873-42EE78E03E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50A25F9-3ED5-4CB6-8873-42EE78E03E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50A25F9-3ED5-4CB6-8873-42EE78E03E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50A25F9-3ED5-4CB6-8873-42EE78E03E3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B2F66974-E226-401B-A6E9-EED04CEC50DA} = {A6D42A71-0085-486E-A43E-DF4B6835E206}
+		{B50A25F9-3ED5-4CB6-8873-42EE78E03E3F} = {B2F66974-E226-401B-A6E9-EED04CEC50DA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B436E939-CF00-4754-B2A1-B17A5B3574B6}
+	EndGlobalSection
+EndGlobal
